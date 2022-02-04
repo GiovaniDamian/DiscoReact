@@ -1,6 +1,16 @@
-DiscoReact
-Projeto desenvolvido na Imersão React da @alurachallenges; elaboração de um Discord utilizando React e Next
+<h1>Projeto desenvolvido na Imersão React da @alurachallenges</h1>
+  
+Elaboração de um "Discord" utilizando React, Next, Supabase e o repositório Skynexui.
+
+
 
 <div>
-  <img height="180em" src="https://github.com/GiovaniDamian/DiscoReact/blob/master/public/img/login.png"/>
- </div>
+  <h2>Página de Login</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/DiscoReact/blob/master/public/img/login.png"/>
+</div>
+ 
+<div>
+  <h2>Página do chat</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/DiscoReact/blob/master/public/img/chat.png"/>
+</div>
+
