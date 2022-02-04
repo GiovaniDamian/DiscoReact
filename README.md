@@ -2,7 +2,7 @@
   
 Elaboração de um "Discord" utilizando React, Next, Supabase e o repositório Skynexui.
 
-
+Disponível em: https://giovani-damian-disco-react.vercel.app/
 
 <div>
   <h2>Página de Login</h2>
