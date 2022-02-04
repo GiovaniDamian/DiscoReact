@@ -1,0 +1,13 @@
+npm init -y
+npm install next react react-dom
+[package.json]
+  "scripts": {
+	"dev": "next dev",
+	"build": "next build",
+	"start": "next start",
+	"lint": "next lint"
+  }
+criar page - index.js
+npm run dev
+[index.js] - criar componentes React
+npm add @skynexui/components
